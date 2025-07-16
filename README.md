@@ -110,7 +110,7 @@ Data was sourced from Palmoria’s internal HR system and analyzed using Power B
 | Support               | 53.63%   | 42.03%   | 4.35%   |
 | Business Development  | 44.12%   | 51.47%   | 4.41%   |
 
-> **Insight**: - Male over-representation is evident in **Legal**, **Sales**, and **Support**.
+> **Insight**: - Male population is higher in **Legal**, **Sales**, and **Support**.
 - Gender balance is closer in **Engineering, Services** and **Human Resources**.
 - **Lagos** region shows the most equitable distribution.
 
@@ -125,7 +125,7 @@ Data was sourced from Palmoria’s internal HR system and analyzed using Power B
 | Very Poor   | 31   | 19     | 3  |
 
 >  **Insight**: - **Female employees** are more likely to fall in the “Very Good” and “Good” categories.
-- **Male employees** dominate “Poor” and “Very Poor” ratings. Indicates a need to review promotion and recognition frameworks to ensure high-performing female employees are being adequately advanced within the organization.
+- **Male employees** dominate “Poor” and “Very Poor” ratings. Indicates a need to review promotion and recognition frameworks to ensure high-performing female employees are being adequately promoted within the organization.
 
 ### 3. Salary Structure by Gender Distribution
 
@@ -153,7 +153,7 @@ Data was sourced from Palmoria’s internal HR system and analyzed using Power B
 >  **Insight**:  **Average salaries appear close**, but gaps emerge when broken down by Sum of salary:
   -  **Department**: Largest in **Legal** and **Accounting**
   -  **Region**: Most disparities in **Kaduna**
--  Gender pay inequality is subtle but systemic.
+-  Gender pay inequality is subtle.
 
 ### 4. Compliance with New $90,000 Regulation
 
