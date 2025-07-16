@@ -198,7 +198,7 @@ Data was sourced from Palmoria’s internal HR system and analyzed using Power B
 | 110k–120k        | 25     | 33     | 26     |   
 
 
->  **Insight**: Most employees fall in the **$70k–$80k** range.
+>  **Insight**: Most employees fall in the **$30k–$80k** range.
 - A **significant portion** remains below $90k.
 - **Kaduna** has the largest low-salary population showing regional disparity.
 
