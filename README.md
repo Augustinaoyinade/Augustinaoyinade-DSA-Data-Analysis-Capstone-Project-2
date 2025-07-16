@@ -267,9 +267,6 @@ Data was sourced from Palmoria’s internal HR system and analyzed using Power B
 
 ##  Suggestions for Further Analysis
 
-- **Exit Interview Sentiment Analysis**  
-  Understand reasons for employee turnover, with a focus on gender-related trends.
-
 - **Performance Rating Bias Audit**  
   Use statistical tools to detect potential bias in how ratings are assigned.
 
